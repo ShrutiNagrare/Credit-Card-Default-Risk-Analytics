@@ -97,11 +97,6 @@ Default patterns across age groups.
 
 Education-wise and gender-wise default rates.
 
-Monthly repayment behaviour.
-
-Differences between bill amounts and payment amounts.
-
-Customer segments requiring additional monitoring.
 
 Recommendations will be based on verified dashboard findings.
 
