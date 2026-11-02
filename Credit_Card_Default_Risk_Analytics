@@ -1,0 +1,17 @@
+Credit-Card-Default-Risk-Analytics/
+│
+├── data/
+│   └── README.md
+│
+├── pbix/
+│   └── Credit_Card_Default_Risk_Analytics.pbix
+│
+├── assets/
+│   ├── executive_overview.png
+│   ├── customer_risk.png
+│   ├── repayment_behaviour.png
+│   ├── business_insights.png
+│   ├── customer_detail.png
+│   └── data_model.png
+│
+└── README.md
